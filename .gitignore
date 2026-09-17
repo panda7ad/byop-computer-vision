@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Generated logs and run outputs (not part of source)
+*.log
+output/*.jpg
+output/*.png
+!output/.gitkeep
+
+.DS_Store
