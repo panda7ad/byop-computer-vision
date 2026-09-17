@@ -103,7 +103,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 5. (Already done for you) The trained model
+### 5. The trained model
 
 A pretrained digit classifier is committed at
 `models/digit_classifier.pkl`, so you can run `solve` immediately
